@@ -5,8 +5,8 @@
 Welcome to my GitHub page! I'm Farjad Tariq, a passionate analyst and engineer.
 
 🔭 **What I Do:** 
-- I have a knack for solving complex problems using code. 
-- AI is my playground, and I use Full Stack Development, LLMs, Prompt Engineering, NLP, and Machine Learning to build solutions through automations.
+- I have a knack for solving complex problems using code and low/no-code. 
+- AI is my playground, and I use Full Stack Development, LLMs, Prompt Engineering, NLP, and Machine Learning to build solutions through AI-based automations.
 
 🌱 **What I'm Learning:**
 - I'm currently diving deeper into machine learning and AI and expanding my skill set in the data science world.
