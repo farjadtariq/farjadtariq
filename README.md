@@ -6,14 +6,14 @@ Welcome to my GitHub page! I'm Farjad Tariq, a passionate analyst and engineer.
 
 🔭 **What I Do:** 
 - I have a knack for solving complex problems using code and low/no-code. 
-- AI is my playground, and I use Full Stack Development, LLMs, Prompt Engineering, NLP, and Machine Learning to build solutions through AI-based automations.
+- AI is my playground, and I use Full Stack Development, Data Architecture, LLMs, Prompt Engineering, NLP, and Machine Learning to build solutions through AI-based automations.
 
 🌱 **What I'm Learning:**
-- I'm currently diving deeper into machine learning and AI and expanding my skill set in the data science world.
+- I'm currently diving deeper into AI and its software based applications and expanding my skill set in the data science world.
 
 📈 **What You'll Find Here:**
 - Repositories that range from smaller projects to more complex applications.
-- Code related to data analysis, app development, machine learning, and more.
+- Code related to software and AI applications, data analysis, mobile app development, machine learning, and more.
 - Well-documented projects with comprehensive README files that explain the what, why, and how.
 
 🤝 **Let's Connect:**
